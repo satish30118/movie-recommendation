@@ -1,0 +1,1 @@
+console.log(searchText, choice);
